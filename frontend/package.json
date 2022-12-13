@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://goal-setter-api.onrender.com",
+  "proxy": "https://goal-setter-api-345d.onrender.com",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
